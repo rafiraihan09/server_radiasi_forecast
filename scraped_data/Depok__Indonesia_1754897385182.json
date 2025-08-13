@@ -1,0 +1,87 @@
+{
+  "success": true,
+  "location": "Depok, Indonesia",
+  "coordinates": {
+    "lat": -6.4025,
+    "lng": 106.7942
+  },
+  "data_sources": {
+    "globalsolaratlas": {
+      "success": true,
+      "source": "globalsolaratlas.info",
+      "data": {
+        "ghi": 5.504505784674031,
+        "dni": 4.907218171823252,
+        "dhi": 1.5452365353898594,
+        "temperature": 28.914911577972568,
+        "humidity": 80.38575818793163,
+        "coordinates": {
+          "lat": -6.4025,
+          "lng": 106.7942
+        },
+        "extraction_method": "estimated"
+      },
+      "timestamp": "2025-08-11T07:29:42.696Z",
+      "data_quality": "estimated"
+    },
+    "pvgis": {
+      "success": true,
+      "source": "re.jrc.ec.europa.eu/pvg_tools",
+      "data": {
+        "ghi": 4.8,
+        "dni": 3.5999999999999996,
+        "pv_output": 262.8,
+        "optimal_angle": 15,
+        "temperature": 28.791624090484014,
+        "coordinates": {
+          "lat": -6.4025,
+          "lng": 106.7942
+        }
+      },
+      "timestamp": "2025-08-11T07:29:36.430Z",
+      "data_quality": "excellent"
+    },
+    "bmkg": {
+      "success": true,
+      "source": "bmkg/indonesian-weather",
+      "data": {
+        "temperature": 28,
+        "humidity": 85.05111553302284,
+        "pressure": 1017.2504271930641,
+        "wind_speed": 4.119024343645994,
+        "cloud_cover": 0.4272518275171938,
+        "visibility": 10.268970146486419,
+        "extraction_method": "alternative",
+        "coordinates": {
+          "lat": -6.4025,
+          "lng": 106.7942
+        }
+      },
+      "timestamp": "2025-08-11T07:29:45.182Z",
+      "data_quality": "good"
+    }
+  },
+  "weather": {
+    "temperature": 28.568845222818865,
+    "humidity": 85.05111553302284,
+    "pressure": 1017.2504271930641,
+    "wind_speed": 4.119024343645994,
+    "cloud_cover": 0.4272518275171938,
+    "solarIrradiance": 229.3544076947513
+  },
+  "solar": {
+    "ghi": 5.504505784674031,
+    "dni": 4.907218171823252,
+    "dhi": 1.5452365353898594,
+    "pv_output": 262.8,
+    "optimal_angle": 15
+  },
+  "scraping_duration_ms": 9856,
+  "sources_scraped": 3,
+  "data_quality": [
+    "estimated",
+    "excellent",
+    "good"
+  ],
+  "timestamp": "2025-08-11T07:29:45.182Z"
+}

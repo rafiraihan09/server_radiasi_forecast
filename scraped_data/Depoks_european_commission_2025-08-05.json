@@ -1,0 +1,30 @@
+{
+  "location": "Depoks",
+  "coordinates": {
+    "lat": -6.2088,
+    "lng": 106.8456
+  },
+  "monthly_irradiation": {
+    "january": 210.8674748136482,
+    "february": 208.1765663985993,
+    "march": 236.1123897525066,
+    "april": 212.3200254580841,
+    "may": 231.03373124038976,
+    "june": 196.9428235828405,
+    "july": 201.26603193841385,
+    "august": 202.12703902113668,
+    "september": 160.80660622436113,
+    "october": 163.99245559017857,
+    "november": 184.45095999554485,
+    "december": 198.99613028140473
+  },
+  "annual_sum": 2010.1358560791632,
+  "system_efficiency": 0.8970239598923423,
+  "performance_ratio": 0.8303416724679766,
+  "technology": "crystalline silicon",
+  "mounting": "free-standing",
+  "data_source": "European Commission PVGIS",
+  "timestamp": "2025-08-05T04:48:41.542Z",
+  "uncertainty": "±5%",
+  "region": "Southeast Asia"
+}

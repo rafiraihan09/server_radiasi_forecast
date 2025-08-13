@@ -1,0 +1,368 @@
+{
+  "monthly_weather": {
+    "daily_data": [
+      {
+        "day": 1,
+        "high_temp": 32,
+        "low_temp": 28,
+        "humidity": 90,
+        "precipitation_chance": 26,
+        "precipitation_mm": 8.570331796700879
+      },
+      {
+        "day": 2,
+        "high_temp": 33,
+        "low_temp": 25,
+        "humidity": 78,
+        "precipitation_chance": 37,
+        "precipitation_mm": 5.737802582002539
+      },
+      {
+        "day": 3,
+        "high_temp": 32,
+        "low_temp": 26,
+        "humidity": 72,
+        "precipitation_chance": 37,
+        "precipitation_mm": 8.816279975482905
+      },
+      {
+        "day": 4,
+        "high_temp": 31,
+        "low_temp": 25,
+        "humidity": 84,
+        "precipitation_chance": 13,
+        "precipitation_mm": 4.466425048102921
+      },
+      {
+        "day": 5,
+        "high_temp": 34,
+        "low_temp": 27,
+        "humidity": 73,
+        "precipitation_chance": 47,
+        "precipitation_mm": 1.8422084903372582
+      },
+      {
+        "day": 6,
+        "high_temp": 34,
+        "low_temp": 26,
+        "humidity": 88,
+        "precipitation_chance": 43,
+        "precipitation_mm": 2.7522561654415236
+      },
+      {
+        "day": 7,
+        "high_temp": 34,
+        "low_temp": 26,
+        "humidity": 77,
+        "precipitation_chance": 8,
+        "precipitation_mm": 6.103707359449651
+      },
+      {
+        "day": 8,
+        "high_temp": 34,
+        "low_temp": 24,
+        "humidity": 87,
+        "precipitation_chance": 61,
+        "precipitation_mm": 4.864406854214197
+      },
+      {
+        "day": 9,
+        "high_temp": 32,
+        "low_temp": 26,
+        "humidity": 72,
+        "precipitation_chance": 34,
+        "precipitation_mm": 1.388147382805952
+      },
+      {
+        "day": 10,
+        "high_temp": 33,
+        "low_temp": 26,
+        "humidity": 77,
+        "precipitation_chance": 88,
+        "precipitation_mm": 3.984163808102238
+      },
+      {
+        "day": 11,
+        "high_temp": 36,
+        "low_temp": 28,
+        "humidity": 80,
+        "precipitation_chance": 67,
+        "precipitation_mm": 2.2424959357793517
+      },
+      {
+        "day": 12,
+        "high_temp": 30,
+        "low_temp": 28,
+        "humidity": 87,
+        "precipitation_chance": 57,
+        "precipitation_mm": 5.131641351884008
+      },
+      {
+        "day": 13,
+        "high_temp": 36,
+        "low_temp": 25,
+        "humidity": 80,
+        "precipitation_chance": 40,
+        "precipitation_mm": 1.7369685303223559
+      },
+      {
+        "day": 14,
+        "high_temp": 32,
+        "low_temp": 24,
+        "humidity": 74,
+        "precipitation_chance": 30,
+        "precipitation_mm": 8.970624949465693
+      },
+      {
+        "day": 15,
+        "high_temp": 36,
+        "low_temp": 26,
+        "humidity": 82,
+        "precipitation_chance": 77,
+        "precipitation_mm": 4.5147885910954555
+      },
+      {
+        "day": 16,
+        "high_temp": 33,
+        "low_temp": 26,
+        "humidity": 83,
+        "precipitation_chance": 84,
+        "precipitation_mm": 3.578570072155809
+      },
+      {
+        "day": 17,
+        "high_temp": 30,
+        "low_temp": 28,
+        "humidity": 77,
+        "precipitation_chance": 63,
+        "precipitation_mm": 9.823797950812146
+      },
+      {
+        "day": 18,
+        "high_temp": 31,
+        "low_temp": 26,
+        "humidity": 83,
+        "precipitation_chance": 45,
+        "precipitation_mm": 2.388238783973915
+      },
+      {
+        "day": 19,
+        "high_temp": 31,
+        "low_temp": 27,
+        "humidity": 70,
+        "precipitation_chance": 9,
+        "precipitation_mm": 3.9723270748232764
+      },
+      {
+        "day": 20,
+        "high_temp": 32,
+        "low_temp": 25,
+        "humidity": 86,
+        "precipitation_chance": 73,
+        "precipitation_mm": 9.254153502279403
+      },
+      {
+        "day": 21,
+        "high_temp": 32,
+        "low_temp": 27,
+        "humidity": 76,
+        "precipitation_chance": 18,
+        "precipitation_mm": 6.604920369769564
+      },
+      {
+        "day": 22,
+        "high_temp": 33,
+        "low_temp": 27,
+        "humidity": 79,
+        "precipitation_chance": 17,
+        "precipitation_mm": 4.202667680166234
+      },
+      {
+        "day": 23,
+        "high_temp": 36,
+        "low_temp": 27,
+        "humidity": 71,
+        "precipitation_chance": 55,
+        "precipitation_mm": 1.7212089029974464
+      },
+      {
+        "day": 24,
+        "high_temp": 31,
+        "low_temp": 27,
+        "humidity": 83,
+        "precipitation_chance": 22,
+        "precipitation_mm": 9.073587014618978
+      },
+      {
+        "day": 25,
+        "high_temp": 34,
+        "low_temp": 24,
+        "humidity": 80,
+        "precipitation_chance": 15,
+        "precipitation_mm": 4.00833937097342
+      },
+      {
+        "day": 26,
+        "high_temp": 30,
+        "low_temp": 27,
+        "humidity": 82,
+        "precipitation_chance": 94,
+        "precipitation_mm": 1.040815699129557
+      },
+      {
+        "day": 27,
+        "high_temp": 31,
+        "low_temp": 26,
+        "humidity": 88,
+        "precipitation_chance": 76,
+        "precipitation_mm": 0.8411815219265351
+      },
+      {
+        "day": 28,
+        "high_temp": 36,
+        "low_temp": 27,
+        "humidity": 87,
+        "precipitation_chance": 25,
+        "precipitation_mm": 4.310982857044229
+      },
+      {
+        "day": 29,
+        "high_temp": 31,
+        "low_temp": 27,
+        "humidity": 74,
+        "precipitation_chance": 10,
+        "precipitation_mm": 4.292879403375894
+      },
+      {
+        "day": 30,
+        "high_temp": 34,
+        "low_temp": 27,
+        "humidity": 71,
+        "precipitation_chance": 22,
+        "precipitation_mm": 3.3411400785410494
+      }
+    ],
+    "monthly_summary": {},
+    "extraction_method": "accuweather"
+  },
+  "forecast_14day": {
+    "forecast_data": [
+      {
+        "day_index": 0,
+        "high_temp": 32,
+        "low_temp": 23,
+        "humidity": 87,
+        "wind_speed": 8.29583650075475,
+        "precipitation": 0.5056989305909249
+      },
+      {
+        "day_index": 1,
+        "high_temp": 34,
+        "low_temp": 25,
+        "humidity": 80,
+        "wind_speed": 5.27984466654636,
+        "precipitation": 4.592761969078707
+      },
+      {
+        "day_index": 2,
+        "high_temp": 34,
+        "low_temp": 26,
+        "humidity": 77,
+        "wind_speed": 6.974766152939792,
+        "precipitation": 1.7722365304238403
+      },
+      {
+        "day_index": 3,
+        "high_temp": 34,
+        "low_temp": 23,
+        "humidity": 79,
+        "wind_speed": 7.756839620390198,
+        "precipitation": 1.8235698361777701
+      },
+      {
+        "day_index": 4,
+        "high_temp": 31,
+        "low_temp": 26,
+        "humidity": 86,
+        "wind_speed": 9.759547809448879,
+        "precipitation": 2.0437480912787507
+      },
+      {
+        "day_index": 5,
+        "high_temp": 29,
+        "low_temp": 27,
+        "humidity": 86,
+        "wind_speed": 8.869450564194047,
+        "precipitation": 0.8318777031141505
+      },
+      {
+        "day_index": 6,
+        "high_temp": 34,
+        "low_temp": 26,
+        "humidity": 83,
+        "wind_speed": 4.979011234585366,
+        "precipitation": 4.086241167298738
+      },
+      {
+        "day_index": 7,
+        "high_temp": 28,
+        "low_temp": 26,
+        "humidity": 86,
+        "wind_speed": 5.887200751818215,
+        "precipitation": 2.502255579416657
+      },
+      {
+        "day_index": 8,
+        "high_temp": 30,
+        "low_temp": 27,
+        "humidity": 78,
+        "wind_speed": 4.437390296490404,
+        "precipitation": 1.6929556640743133
+      },
+      {
+        "day_index": 9,
+        "high_temp": 34,
+        "low_temp": 23,
+        "humidity": 73,
+        "wind_speed": 5.071048236650298,
+        "precipitation": 1.9163769894692995
+      },
+      {
+        "day_index": 10,
+        "high_temp": 29,
+        "low_temp": 27,
+        "humidity": 90,
+        "wind_speed": 4.869543336969483,
+        "precipitation": 4.046370634550859
+      },
+      {
+        "day_index": 11,
+        "high_temp": 32,
+        "low_temp": 25,
+        "humidity": 78,
+        "wind_speed": 4.917155682530434,
+        "precipitation": 0.5236685702060118
+      },
+      {
+        "day_index": 12,
+        "high_temp": 33,
+        "low_temp": 25,
+        "humidity": 89,
+        "wind_speed": 9.005528932447202,
+        "precipitation": 2.404206655545612
+      },
+      {
+        "day_index": 13,
+        "high_temp": 30,
+        "low_temp": 26,
+        "humidity": 83,
+        "wind_speed": 9.367850979064986,
+        "precipitation": 3.39651338694714
+      }
+    ],
+    "current_conditions": {
+      "temperature": 17
+    },
+    "extraction_method": "meteoblue"
+  }
+}

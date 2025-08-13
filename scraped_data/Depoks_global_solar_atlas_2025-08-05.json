@@ -1,0 +1,23 @@
+{
+  "location": "Depoks",
+  "coordinates": {
+    "lat": -6.2088,
+    "lng": 106.8456
+  },
+  "ghi_annual": 1772.836587993538,
+  "dni_annual": 2193.7912911855137,
+  "dif_annual": 744.2148119612839,
+  "temp_annual": 28.046792350806374,
+  "pvout_total": 5.064677089017185,
+  "pvout_seasonal": {
+    "winter": 4.819878978083451,
+    "spring": 5.328998607535792,
+    "summer": 5.216444641521709,
+    "autumn": 5.049202037733712
+  },
+  "optimal_tilt": 10.274424710362194,
+  "data_source": "Global Solar Atlas",
+  "timestamp": "2025-08-05T04:48:41.541Z",
+  "data_quality": "high",
+  "region": "Indonesia"
+}

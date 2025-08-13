@@ -1,0 +1,79 @@
+{
+  "success": true,
+  "location": "Depok, Indonesia",
+  "coordinates": {
+    "lat": -6.4025,
+    "lng": 106.7942
+  },
+  "data_sources": {
+    "globalsolaratlas": {
+      "success": false,
+      "source": "globalsolaratlas.info",
+      "error": "page.waitForTimeout is not a function",
+      "data": {
+        "ghi": 5.374849654275253,
+        "dni": 4.21126915857862,
+        "dhi": 1.9163980736697146,
+        "temperature": 31.419585247527856,
+        "humidity": 72.79866096667476
+      },
+      "timestamp": "2025-08-11T07:18:35.973Z",
+      "data_quality": "estimated"
+    },
+    "pvgis": {
+      "success": true,
+      "source": "re.jrc.ec.europa.eu/pvg_tools",
+      "data": {
+        "ghi": 4.8,
+        "dni": 3.5999999999999996,
+        "pv_output": 262.8,
+        "optimal_angle": 15,
+        "temperature": 29.026821577006594,
+        "coordinates": {
+          "lat": -6.4025,
+          "lng": 106.7942
+        }
+      },
+      "timestamp": "2025-08-11T07:18:32.474Z",
+      "data_quality": "excellent"
+    },
+    "bmkg": {
+      "success": false,
+      "source": "dataonline.bmkg.go.id",
+      "error": "Navigation timeout of 30000 ms exceeded",
+      "data": {
+        "temperature": 30.03991238133071,
+        "humidity": 78.53261241330785,
+        "pressure": 1017.4387610617698,
+        "wind_speed": 3.571209751203876,
+        "cloud_cover": 0.6102633757762023,
+        "visibility": 10.432464605735788
+      },
+      "timestamp": "2025-08-11T07:19:00.588Z",
+      "data_quality": "estimated"
+    }
+  },
+  "weather": {
+    "temperature": 30.162106401955054,
+    "humidity": 78.53261241330785,
+    "pressure": 1017.4387610617698,
+    "wind_speed": 3.571209751203876,
+    "cloud_cover": 0.6102633757762023,
+    "solarIrradiance": 223.95206892813553
+  },
+  "solar": {
+    "ghi": 5.374849654275253,
+    "dni": 4.21126915857862,
+    "dhi": 1.9163980736697146,
+    "pv_output": 262.8,
+    "optimal_angle": 15
+  },
+  "scraping_duration_ms": 30206,
+  "sources_scraped": 1,
+  "data_quality": [
+    "estimated",
+    "excellent",
+    "estimated"
+  ],
+  "timestamp": "2025-08-11T07:19:00.589Z"
+}

@@ -1,0 +1,30 @@
+{
+  "location": "Jakarta",
+  "coordinates": {
+    "lat": -6.2088,
+    "lng": 106.8456
+  },
+  "monthly_irradiation": {
+    "january": 209.7931586455421,
+    "february": 224.31201045600406,
+    "march": 216.0199260431449,
+    "april": 237.59914538786109,
+    "may": 212.8415326043216,
+    "june": 230.75546979200692,
+    "july": 201.1494936123468,
+    "august": 196.21422119989995,
+    "september": 155.97940242010486,
+    "october": 154.38994331918133,
+    "november": 170.8296955002031,
+    "december": 193.77419858542598
+  },
+  "annual_sum": 2146.8460327472094,
+  "system_efficiency": 0.9232690155028326,
+  "performance_ratio": 0.8067618664823388,
+  "technology": "crystalline silicon",
+  "mounting": "free-standing",
+  "data_source": "European Commission PVGIS",
+  "timestamp": "2025-08-05T10:06:52.781Z",
+  "uncertainty": "±5%",
+  "region": "Southeast Asia"
+}

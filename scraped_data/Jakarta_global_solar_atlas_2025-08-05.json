@@ -1,0 +1,23 @@
+{
+  "location": "Jakarta",
+  "coordinates": {
+    "lat": -6.2088,
+    "lng": 106.8456
+  },
+  "ghi_annual": 2001.4966935122711,
+  "dni_annual": 2336.6618807159725,
+  "dif_annual": 753.7125285393024,
+  "temp_annual": 29.353915598156163,
+  "pvout_total": 5.040477311084255,
+  "pvout_seasonal": {
+    "winter": 4.971321890832869,
+    "spring": 5.106689302684409,
+    "summer": 5.740626644786249,
+    "autumn": 5.013150479878422
+  },
+  "optimal_tilt": 6.983853059448573,
+  "data_source": "Global Solar Atlas",
+  "timestamp": "2025-08-05T10:06:52.781Z",
+  "data_quality": "high",
+  "region": "Indonesia"
+}

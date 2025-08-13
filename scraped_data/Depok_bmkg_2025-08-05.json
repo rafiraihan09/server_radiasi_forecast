@@ -1,0 +1,110 @@
+{
+  "location": "Depok",
+  "coordinates": {
+    "lat": -6.4025,
+    "lng": 106.7942
+  },
+  "current_weather": {
+    "temperature": 28.98370179493405,
+    "humidity": 86.85431987871141,
+    "pressure": 1021.2378880160059,
+    "wind_speed": 4.718364787513737,
+    "wind_direction": 317,
+    "cloud_cover": 0.09058140292167921,
+    "visibility": 14.39945645792645,
+    "weather_condition": "Light Rain"
+  },
+  "daily_forecast": [
+    {
+      "date": "2025-08-05",
+      "temp_max": 31.40472632013666,
+      "temp_min": 25.5563517532101,
+      "humidity": 76.08654347417527,
+      "rainfall": 28.7023859569713,
+      "wind_speed": 8.230381341747115,
+      "cloud_cover": 0.23298433496359225
+    },
+    {
+      "date": "2025-08-06",
+      "temp_max": 30.26809320635705,
+      "temp_min": 27.148020598454245,
+      "humidity": 86.89610324458688,
+      "rainfall": 10.113321293338373,
+      "wind_speed": 10.104115561042203,
+      "cloud_cover": 0.09575909353720374
+    },
+    {
+      "date": "2025-08-07",
+      "temp_max": 33.15212547887713,
+      "temp_min": 26.740077828137274,
+      "humidity": 82.40031923667901,
+      "rainfall": 8.179373514845519,
+      "wind_speed": 3.033751569874317,
+      "cloud_cover": 0.4971304753337229
+    },
+    {
+      "date": "2025-08-08",
+      "temp_max": 31.762286155293552,
+      "temp_min": 25.990458511768555,
+      "humidity": 99.45719202790768,
+      "rainfall": 19.633240832305376,
+      "wind_speed": 7.006094503539038,
+      "cloud_cover": 0.7578897477968634
+    },
+    {
+      "date": "2025-08-09",
+      "temp_max": 32.70275356441163,
+      "temp_min": 26.238437492146772,
+      "humidity": 92.42729385309866,
+      "rainfall": 13.356233827857992,
+      "wind_speed": 12.653482041261196,
+      "cloud_cover": 0.7737872405286561
+    },
+    {
+      "date": "2025-08-10",
+      "temp_max": 31.410655677583897,
+      "temp_min": 25.607749802107524,
+      "humidity": 81.1952392441568,
+      "rainfall": 22.741244341761938,
+      "wind_speed": 5.016196972604751,
+      "cloud_cover": 0.621996992089526
+    },
+    {
+      "date": "2025-08-11",
+      "temp_max": 30.464637729732434,
+      "temp_min": 26.208598282547705,
+      "humidity": 79.47647971197031,
+      "rainfall": 25.673108947033718,
+      "wind_speed": 14.910347034173366,
+      "cloud_cover": 0.5089215784790809
+    }
+  ],
+  "climate_data": {
+    "annual_rainfall": 2487.788811360922,
+    "avg_temperature": 29.604419231738937,
+    "wet_season_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "dry_season_months": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ]
+  },
+  "data_source": "BMKG Indonesia",
+  "timestamp": "2025-08-05T10:11:34.500Z",
+  "station_info": {
+    "name": "Depok Weather Station",
+    "distance_km": 44.52421220696774,
+    "elevation_m": 614.0400053133806
+  },
+  "region": "Indonesia"
+}

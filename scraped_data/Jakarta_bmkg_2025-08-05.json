@@ -1,0 +1,110 @@
+{
+  "location": "Jakarta",
+  "coordinates": {
+    "lat": -6.2088,
+    "lng": 106.8456
+  },
+  "current_weather": {
+    "temperature": 30.969009479752724,
+    "humidity": 81.67613652489997,
+    "pressure": 1015.3841495314483,
+    "wind_speed": 13.009986671303118,
+    "wind_direction": 209,
+    "cloud_cover": 0.2249169376964913,
+    "visibility": 14.63015519287979,
+    "weather_condition": "Cloudy"
+  },
+  "daily_forecast": [
+    {
+      "date": "2025-08-05",
+      "temp_max": 32.10044291253132,
+      "temp_min": 27.406245896310395,
+      "humidity": 84.76926739318733,
+      "rainfall": 14.277587465979982,
+      "wind_speed": 14.61275756199366,
+      "cloud_cover": 0.38026151350893866
+    },
+    {
+      "date": "2025-08-06",
+      "temp_max": 33.50348159329894,
+      "temp_min": 26.444314081216945,
+      "humidity": 97.90496660340231,
+      "rainfall": 13.55519729840779,
+      "wind_speed": 8.839176030986412,
+      "cloud_cover": 0.5436534534244446
+    },
+    {
+      "date": "2025-08-07",
+      "temp_max": 33.3680849203912,
+      "temp_min": 27.053231298824045,
+      "humidity": 76.81416098679304,
+      "rainfall": 27.266315955109956,
+      "wind_speed": 12.072197273845696,
+      "cloud_cover": 0.6780246681791442
+    },
+    {
+      "date": "2025-08-08",
+      "temp_max": 33.09790986632037,
+      "temp_min": 25.121602802760787,
+      "humidity": 95.13746204397995,
+      "rainfall": 11.706764656458148,
+      "wind_speed": 7.774022743283765,
+      "cloud_cover": 0.14618474579493484
+    },
+    {
+      "date": "2025-08-09",
+      "temp_max": 31.161159040986384,
+      "temp_min": 25.51355337249836,
+      "humidity": 80.50300583541572,
+      "rainfall": 22.649462783773426,
+      "wind_speed": 7.15907854761118,
+      "cloud_cover": 0.6397403081112693
+    },
+    {
+      "date": "2025-08-10",
+      "temp_max": 32.82425981909539,
+      "temp_min": 27.725529038654752,
+      "humidity": 92.26111151021475,
+      "rainfall": 6.474521524524333,
+      "wind_speed": 13.776785921848743,
+      "cloud_cover": 0.3058898639781896
+    },
+    {
+      "date": "2025-08-11",
+      "temp_max": 32.99523173962563,
+      "temp_min": 27.25691442019698,
+      "humidity": 88.9661667885612,
+      "rainfall": 22.468828934055654,
+      "wind_speed": 14.178125196020101,
+      "cloud_cover": 0.32224666730441476
+    }
+  ],
+  "climate_data": {
+    "annual_rainfall": 2169.775323067627,
+    "avg_temperature": 27.21380258864513,
+    "wet_season_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "dry_season_months": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ]
+  },
+  "data_source": "BMKG Indonesia",
+  "timestamp": "2025-08-05T10:06:52.781Z",
+  "station_info": {
+    "name": "Jakarta Weather Station",
+    "distance_km": 11.448788732266502,
+    "elevation_m": 238.24959142934478
+  },
+  "region": "Indonesia"
+}
