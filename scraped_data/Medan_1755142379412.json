@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "location": "Medan",
+  "coordinates": {
+    "lat": 3.5952,
+    "lng": 98.6722
+  },
+  "scraping_timestamp": "2025-08-14T03:32:59.367Z",
+  "data_sources": {
+    "globalsolaratlas": {
+      "success": true,
+      "source": "globalsolaratlas.info",
+      "data": {
+        "ghi": 5.9642348194498425,
+        "dni": 5.099978029223117,
+        "dhi": 1.7826649885841375,
+        "pv_output": 292.46500632833
+      },
+      "timestamp": "2025-08-14T03:32:59.367Z",
+      "data_quality": "online_estimated"
+    },
+    "pvgis": {
+      "success": true,
+      "source": "re.jrc.ec.europa.eu/pvg_tools",
+      "data": {
+        "ghi": 4.8,
+        "dni": 3.5999999999999996,
+        "pv_output": 262.8
+      },
+      "timestamp": "2025-08-14T03:32:54.096Z",
+      "data_quality": "online_excellent"
+    },
+    "bmkg": {
+      "success": true,
+      "source": "bmkg/indonesian-weather",
+      "data": {
+        "ghi": 4.807419667914468
+      },
+      "timestamp": "2025-08-14T03:32:53.245Z",
+      "data_quality": "online_good"
+    }
+  },
+  "scraping_duration_ms": 6232,
+  "sources_scraped": 3,
+  "is_online_scrape": true,
+  "timestamp": "2025-08-14T03:32:59.367Z"
+}

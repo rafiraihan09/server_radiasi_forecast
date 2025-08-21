@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "location": "Depok, Indonesia",
+  "coordinates": {
+    "lat": -6.4025,
+    "lng": 106.7942
+  },
+  "data_sources": {
+    "globalsolaratlas": {
+      "success": false,
+      "source": "globalsolaratlas.info",
+      "error": "Cannot read properties of null (reading 'newPage')",
+      "data": {
+        "ghi": 5.463218063568015,
+        "dni": 4.261310089583052,
+        "dhi": 1.7482297803417648,
+        "temperature": 28.8228116804502,
+        "humidity": 88.48117944826747,
+        "coordinates": {
+          "lat": -6.4025,
+          "lng": 106.7942
+        },
+        "extraction_method": "error_fallback"
+      },
+      "timestamp": "2025-08-13T07:53:22.686Z",
+      "data_quality": "estimated"
+    },
+    "pvgis": {
+      "success": true,
+      "source": "re.jrc.ec.europa.eu/pvg_tools",
+      "data": {
+        "ghi": 4.8,
+        "dni": 3.5999999999999996,
+        "pv_output": 262.8,
+        "optimal_angle": 15,
+        "temperature": 27.577577005763658,
+        "coordinates": {
+          "lat": -6.4025,
+          "lng": 106.7942
+        }
+      },
+      "timestamp": "2025-08-13T07:53:24.378Z",
+      "data_quality": "excellent"
+    },
+    "bmkg": {
+      "success": false,
+      "source": "bmkg/indonesian-weather",
+      "error": "Cannot read properties of null (reading 'newPage')",
+      "data": {
+        "temperature": 27.516218623518878,
+        "humidity": 85.37883639158585,
+        "pressure": 1014.4508122460398,
+        "wind_speed": 4.16854082932378,
+        "cloud_cover": 0.5598169923738018,
+        "visibility": 9.800120866267525,
+        "extraction_method": "error_fallback",
+        "coordinates": {
+          "lat": -6.4025,
+          "lng": 106.7942
+        }
+      },
+      "timestamp": "2025-08-13T07:53:22.688Z",
+      "data_quality": "estimated"
+    }
+  },
+  "weather": {
+    "temperature": 27.972202436577575,
+    "humidity": 85.37883639158585,
+    "pressure": 1014.4508122460398,
+    "wind_speed": 4.16854082932378,
+    "cloud_cover": 0.5598169923738018,
+    "visibility": 9.800120866267525,
+    "solarIrradiance": 227.63408598200064
+  },
+  "solar": {
+    "ghi": 5.463218063568015,
+    "dni": 4.261310089583052,
+    "dhi": 1.7482297803417648,
+    "pv_output": 262.8,
+    "optimal_angle": 15
+  },
+  "scraping_duration_ms": 1757,
+  "sources_scraped": 1,
+  "data_quality": [
+    "estimated",
+    "excellent",
+    "estimated"
+  ],
+  "timestamp": "2025-08-13T07:53:24.378Z"
+}

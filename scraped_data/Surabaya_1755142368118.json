@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "location": "Surabaya",
+  "coordinates": {
+    "lat": -7.2504,
+    "lng": 112.7688
+  },
+  "scraping_timestamp": "2025-08-14T03:32:48.068Z",
+  "data_sources": {
+    "globalsolaratlas": {
+      "success": true,
+      "source": "globalsolaratlas.info",
+      "data": {
+        "ghi": 5.285541912732434,
+        "dni": 4.618966805244645,
+        "dhi": 1.5831209904268322,
+        "pv_output": 253.88783964522062
+      },
+      "timestamp": "2025-08-14T03:32:48.068Z",
+      "data_quality": "online_estimated"
+    },
+    "pvgis": {
+      "success": true,
+      "source": "re.jrc.ec.europa.eu/pvg_tools",
+      "data": {
+        "ghi": 4.8,
+        "dni": 3.5999999999999996,
+        "pv_output": 262.8
+      },
+      "timestamp": "2025-08-14T03:32:42.883Z",
+      "data_quality": "online_excellent"
+    },
+    "bmkg": {
+      "success": true,
+      "source": "bmkg/indonesian-weather",
+      "data": {
+        "ghi": 4.624340984327421
+      },
+      "timestamp": "2025-08-14T03:32:41.983Z",
+      "data_quality": "online_good"
+    }
+  },
+  "scraping_duration_ms": 6204,
+  "sources_scraped": 3,
+  "is_online_scrape": true,
+  "timestamp": "2025-08-14T03:32:48.068Z"
+}

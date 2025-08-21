@@ -1,0 +1,105 @@
+{
+  "success": true,
+  "location": "Depok, Indonesia",
+  "coordinates": {
+    "lat": -6.4025,
+    "lng": 106.7942
+  },
+  
+  "data_sources": {
+    "globalsolaratlas": {
+      "success": true,
+      "source": "globalsolaratlas.info",
+      "data": {
+        "ghi": 5.758046917930507,
+        "dni": 4.929401641296532,
+        "dhi": 1.6339629788489596,
+        "temperature": 28.179715211931434,
+        "humidity": 76.08581847125465,
+        "coordinates": {
+          "lat": -6.4025,
+          "lng": 106.7942
+        },
+        "extraction_method": "estimated"
+      },
+      "timestamp": "2025-08-13T08:09:28.123Z",
+      "data_quality": "estimated"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "pvgis": {
+      "success": true,
+      "source": "re.jrc.ec.europa.eu/pvg_tools",
+      "data": {
+        "ghi": 4.8,
+        "dni": 3.5999999999999996,
+        "pv_output": 262.8,
+        "optimal_angle": 15,
+        "temperature": 28.958948052952437,
+        "coordinates": {
+          "lat": -6.4025,
+          "lng": 106.7942
+        }
+      },
+      "timestamp": "2025-08-13T08:09:22.040Z",
+      "data_quality": "excellent"
+    },
+
+
+    "bmkg": {
+      "success": true,
+      "source": "bmkg/indonesian-weather",
+      "data": {
+        "temperature": 30,
+        "humidity": 82.15033205343533,
+        "pressure": 1016.3798737079916,
+        "wind_speed": 2.0434377742122924,
+        "cloud_cover": 0.559533138754922,
+        "visibility": 10.161387530229886,
+        "extraction_method": "alternative",
+        "coordinates": {
+          "lat": -6.4025,
+          "lng": 106.7942
+        }
+      },
+      "timestamp": "2025-08-13T08:09:29.926Z",
+      "data_quality": "good"
+    }
+  },
+  "weather": {
+    "temperature": 29.046221088294622,
+    "humidity": 82.15033205343533,
+    "pressure": 1016.3798737079916,
+    "wind_speed": 2.0434377742122924,
+    "cloud_cover": 0.559533138754922,
+    "visibility": 10.161387530229886,
+    "solarIrradiance": 239.91862158043782
+  },
+  "solar": {
+    "ghi": 5.758046917930507,
+    "dni": 4.929401641296532,
+    "dhi": 1.6339629788489596,
+    "pv_output": 262.8,
+    "optimal_angle": 15
+  },
+  "scraping_duration_ms": 8818,
+  "sources_scraped": 3,
+  "data_quality": [
+    "estimated",
+    "excellent",
+    "good"
+  ],
+  "timestamp": "2025-08-13T08:09:29.926Z"
+}

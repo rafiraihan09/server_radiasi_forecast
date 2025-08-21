@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "location": "Depok, Indonesia",
+  "coordinates": {
+    "lat": -6.4025,
+    "lng": 106.7942
+  },
+  "scraping_timestamp": "2025-08-13T10:09:48.435Z",
+  "data_sources": {
+    "globalsolaratlas": {
+      "success": true,
+      "source": "globalsolaratlas.info",
+      "data": {
+        "ghi": 5.0177172120609095,
+        "dni": 4.039297305395087,
+        "dhi": 1.4213714563236854,
+        "pv_output": 245.9939295545746
+      },
+      "timestamp": "2025-08-13T10:09:48.435Z",
+      "data_quality": "estimated"
+    },
+    "pvgis": {
+      "success": true,
+      "source": "re.jrc.ec.europa.eu/pvg_tools",
+      "data": {
+        "ghi": 4.8,
+        "dni": 3.5999999999999996,
+        "pv_output": 262.8
+      },
+      "timestamp": "2025-08-13T10:09:41.794Z",
+      "data_quality": "excellent"
+    },
+    "bmkg": {
+      "success": true,
+      "source": "bmkg/indonesian-weather",
+      "data": {
+        "ghi": 4.983779210525193
+      },
+      "timestamp": "2025-08-13T10:09:45.891Z",
+      "data_quality": "good"
+    }
+  },
+  "scraping_duration_ms": 7527,
+  "sources_scraped": 3,
+  "timestamp": "2025-08-13T10:09:48.435Z"
+}

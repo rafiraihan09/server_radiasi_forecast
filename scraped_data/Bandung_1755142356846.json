@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "location": "Bandung",
+  "coordinates": {
+    "lat": -6.9175,
+    "lng": 107.6191
+  },
+  "scraping_timestamp": "2025-08-14T03:32:36.694Z",
+  "data_sources": {
+    "globalsolaratlas": {
+      "success": true,
+      "source": "globalsolaratlas.info",
+      "data": {
+        "ghi": 5.57005084776886,
+        "dni": 4.255404710955453,
+        "dhi": 1.4889679822374053,
+        "pv_output": 258.75426450874545
+      },
+      "timestamp": "2025-08-14T03:32:36.694Z",
+      "data_quality": "online_estimated"
+    },
+    "pvgis": {
+      "success": true,
+      "source": "re.jrc.ec.europa.eu/pvg_tools",
+      "data": {
+        "ghi": 4.8,
+        "dni": 3.5999999999999996,
+        "pv_output": 262.8
+      },
+      "timestamp": "2025-08-14T03:32:31.557Z",
+      "data_quality": "online_excellent"
+    },
+    "bmkg": {
+      "success": true,
+      "source": "bmkg/indonesian-weather",
+      "data": {
+        "ghi": 4.576402027679526
+      },
+      "timestamp": "2025-08-14T03:32:30.625Z",
+      "data_quality": "online_good"
+    }
+  },
+  "scraping_duration_ms": 6233,
+  "sources_scraped": 3,
+  "is_online_scrape": true,
+  "timestamp": "2025-08-14T03:32:36.694Z"
+}

@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "location": "Jakarta",
+  "coordinates": {
+    "lat": -6.2088,
+    "lng": 106.8456
+  },
+  "scraping_timestamp": "2025-08-14T03:32:13.843Z",
+  "data_sources": {
+    "globalsolaratlas": {
+      "success": true,
+      "source": "globalsolaratlas.info",
+      "data": {
+        "ghi": 5.015391828530405,
+        "dni": 4.357198147382305,
+        "dhi": 1.33403830066775,
+        "pv_output": 258.5551780693704
+      },
+      "timestamp": "2025-08-14T03:32:13.843Z",
+      "data_quality": "online_estimated"
+    },
+    "pvgis": {
+      "success": true,
+      "source": "re.jrc.ec.europa.eu/pvg_tools",
+      "data": {
+        "ghi": 4.8,
+        "dni": 3.5999999999999996,
+        "pv_output": 262.8
+      },
+      "timestamp": "2025-08-14T03:32:09.152Z",
+      "data_quality": "online_excellent"
+    },
+    "bmkg": {
+      "success": true,
+      "source": "bmkg/indonesian-weather",
+      "data": {
+        "ghi": 4.753147696172574
+      },
+      "timestamp": "2025-08-14T03:32:07.450Z",
+      "data_quality": "online_good"
+    }
+  },
+  "scraping_duration_ms": 6497,
+  "sources_scraped": 3,
+  "is_online_scrape": true,
+  "timestamp": "2025-08-14T03:32:13.843Z"
+}
